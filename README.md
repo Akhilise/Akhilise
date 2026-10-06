@@ -11,7 +11,7 @@ I'm a Software Engineer passionate about building scalable, user-friendly applic
 - 🚀 I’m interested in **AI/ML, Data Science, Open Source, and innovative product development**
 - 👯 I’m looking to collaborate on **React Native, TypeScript, Python & AI/ML projects**
 - 💬 Ask me about **React Native, JavaScript, TypeScript, Redux, Firebase, REST APIs, Python, SQL & Git**
-- 📫 How to reach me: **[LinkedIn](YOUR_LINKEDIN_URL)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/akhil-ise-91880224a/)**
 - ⚡ Fun fact: **I enjoy turning ideas into working applications 🚀**
 
 ---
